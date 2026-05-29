@@ -1,1 +1,1 @@
-# Laptop-Price-Prediction-for-SmartTech-Co
+# Laptop-Price-Prediction-For-SmartTech-Co
